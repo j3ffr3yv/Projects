@@ -1,7 +1,4 @@
-//Written by:  Jeffrey Viramontes and Mario Garcia
-//Assignment:  7.2
-//Class:       Co Sci 209
-//Date:        5/9/17
+//Written by:  Jeffrey Viramontes
 //Description: Reverses the numbers entered.
 
 public class Reverse
